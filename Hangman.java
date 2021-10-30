@@ -180,6 +180,7 @@ import java.util.*;
 
   public static void main(String[] args){
    String[] words={"program","bytecode","int","char","long","multithread","java","array","string","class","object","inheritance","abstraction"};
+    //add words in above array of string
    String word = randomWord(words);
    guessLetter(word);
 
