@@ -37,7 +37,7 @@ import java.util.*;
      parameter : string
      work : game logic start from here,take string as a input,then fetch length of word using 
             string's length() method ,then create a mask word (fill with *) with the same length 
-            of word using do-while loop we start user interaction of game. here first store maskword 
+            of word. Using do-while loop we start user interaction of game. here first store maskword 
             into another string which will be used to compare the user guess correct or not in this function
             (later explained), now take input a char from user and check whether that char is the part of word or
              not using checkLetter . to invoke checkLetter, we have to invoke function with passing three arguments
