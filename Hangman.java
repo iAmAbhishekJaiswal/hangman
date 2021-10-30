@@ -1,7 +1,7 @@
 /*
   Game name :- Hangman ( A word guessing game)
 
-  Task :- 1. Create a collection of words which will be be used in game.
+  Task :- 1. Create a collection of words which will be used in game.
           2. Randomly select a word from collection of words.
           3. create maskword of fill with '*' of similar length of actual word.
           4. Ask user to guess tha character available in word.
